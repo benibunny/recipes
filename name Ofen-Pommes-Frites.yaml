@@ -1,0 +1,30 @@
+name: Ofen-Pommes-Frites
+description: Tolle Knolle: Ofen-Pommes-Frites so knusprig wie noch nie.
+image: https://www.bettybossi.ch/static/media/image_placeholder.png
+prepTime: PT35M
+cookTime: PT20M
+totalTime: PT55M
+recipeYield: 4 Portionen
+recipeCategory: Beilage
+recipeCuisine: International
+ingredients:
+  - 1 kg mehlig kochende Kartoffeln
+  - 4 l Wasser
+  - 1 EL Natron
+  - 3 EL Salz
+  - 4 EL Erdnussöl
+  - wenig Fleur de Sel
+instructions:
+  - Schritt 1: Ofen auf 220 Grad (Heissluft) vorheizen. Kartoffeln schälen, in ca. 8 mm dicke Stängel schneiden, waschen und abtropfen lassen.
+  - Schritt 2: Wasser mit Natron aufkochen, Salz beigeben. Kartoffeln in zwei Portionen je ca. 1 Min. blanchieren. Herausnehmen, auf einem Küchentuch verteilen und auskühlen lassen.
+  - Schritt 3: Kartoffeln und Öl in einer Schüssel mischen. Auf zwei Backbleche mit Backpapier legen, ohne dass sich die Stücke berühren.
+  - Schritt 4: Backen: ca. 20 Min., dabei einmal den Ofen öffnen, um Dampf entweichen zu lassen. Mit Fleur de Sel bestreuen und servieren.
+notes: |
+  Tipp: Bereiten Sie maximal die angegebene Menge pro Mal im Ofen zu. Für größere Mengen die Pommes in mehreren Etappen backen.
+  Dazu passt: Schnitzel, Burger, Würste, Ketchup usw.
+nutrition:
+  calories: 317 kcal
+  fatContent: 13 g
+  carbohydrateContent: 45 g
+  proteinContent: 5 g
+source: https://www.bettybossi.ch/de/Rezept/ShowRezept/BB_BBKN210915_0001A-40-de
